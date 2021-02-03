@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<h1>Halal World</h1>
+		<h2>Restaurant & Takeaway Directory</h2>
+		<br>
+		<p><a href="{{ url_for('list') }}">View Cars</a></p>
+		<p><a href="{{ url_for('add') }}">Add Car</a></p>
+		<p><a href="{{ url_for('update') }}">Update Reg</a></p>
+                <p><a href="{{ url_for('delete') }}">Delete Car<a></p>
+		{% block body %}
+		{% endblock body %}
+	</body>
+</html>
+
