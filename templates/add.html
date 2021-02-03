@@ -1,14 +1,11 @@
 {% extends "home.html" %}
 {% block body %}
-<hr>
 <h1>Add Car</h1>
         <div class='form'>
             <form method='POST' action=''>
                 {{ form.hidden_tag() }}
                 {{ form.username.label }} {{ form.username }}
-                <br>
                 {{ form.carreg.label }} {{ form.carreg }}
-                <br>
                 {{ form.submit }}
             {{ message }}
             </form>

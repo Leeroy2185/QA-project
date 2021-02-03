@@ -1,14 +1,11 @@
 {% extends "home.html" %}
 {% block body %}
-<hr>
 <h1>Edit Reg</h1>
         <div class='form'>
             <form method='POST' action=''>
                 {{ form.hidden_tag() }}
                 {{ form.carreg.label }} {{ form.carreg }}
-                <br>
                 {{ form.newreg.label }} {{ form.newreg }}
-                <br>
                 {{ form.submit }}
             {{ message }}
             </form>
