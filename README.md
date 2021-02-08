@@ -7,7 +7,7 @@ The aim of the project is to produce a fully working CRUD application the remit 
 
 ### Project approach
 
-initially the project took the form of a 3 table databse linking owners to vehicles via a registered vehicle table containing foreign keys for both the owners and vehicles.
+The first part of the project i undertook was the creation of the ERD tables.Initially the project took the form of a 3 table databse linking owners to vehicles via a registered vehicle table containing foreign keys for both the owners and vehicles.
 
 ![ERD_1initiall](https://user-images.githubusercontent.com/55799345/107163193-26b4d080-69a0-11eb-8c93-5245ada9ab19.png),  
  
@@ -24,6 +24,9 @@ This was the intial ERD that i began working on to create the tables for my data
 ## Trello board  
 
 Due to the number of different tasks involed in the creation of the application a trello board was implemented into the design, this helped oraganise tasks into lists and helped to sort the design into smaller segments making the project more manageable.  
+
+![trello](https://user-images.githubusercontent.com/55799345/107164564-89f63100-69a7-11eb-8c93-8ce220de4416.png)
+
 
 
 
