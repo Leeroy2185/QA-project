@@ -25,7 +25,15 @@ This was the intial ERD that i began working on to create the tables for my data
 
 Due to the number of different tasks involed in the creation of the application a trello board was implemented into the design, this helped oraganise tasks into lists and helped to sort the design into smaller segments making the project more manageable.  
 
-![trello](https://user-images.githubusercontent.com/55799345/107164564-89f63100-69a7-11eb-8c93-8ce220de4416.png)
+![trello](https://user-images.githubusercontent.com/55799345/107164564-89f63100-69a7-11eb-8c93-8ce220de4416.png)  
+
+## pytest  
+
+Below is a pytest result that was ran on my working app  
+
+
+
+
 
 
 
