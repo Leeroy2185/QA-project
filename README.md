@@ -27,9 +27,20 @@ Due to the number of different tasks involed in the creation of the application 
 
 ![trello](https://user-images.githubusercontent.com/55799345/107164564-89f63100-69a7-11eb-8c93-8ce220de4416.png)  
 
-## pytest  
+## Pytest  
 
-Below is a pytest result that was ran on my working app  
+Below is a pytest result that was ran on my working app , the test recieved 77% coverage. 
+
+![pytest](https://user-images.githubusercontent.com/55799345/107167894-fc6c0e80-69b1-11eb-87f0-c64f5ccb80be.png)  
+
+## Risk Assessment
+
+Below is a brief risk assessement of possible issues that may arise:  
+
+
+
+
+
 
 
 
