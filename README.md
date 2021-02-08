@@ -37,6 +37,13 @@ Below is a pytest result that was ran on my working app , the test recieved 77% 
 
 Below is a brief risk assessement of possible issues that may arise:  
 
+![risk assessement](https://user-images.githubusercontent.com/55799345/107168334-28d45a80-69b3-11eb-9dbc-dd6633f3bf15.png)  
+
+## Conclusion
+
+There are a number of things that can be improved on the project, upon reflection a larger database with more fields for users and cars would be one of the first imporvements to the project. Also adding further html and css improvements to make the website more user friendly would also be something that the app woould certainly benefit from. Although this is very much a minimal product it is functional and it is the first project i have ever completed . It was difficult in parts and the vast majority of the project was involved in trying to figure out how to write the application. Nearly all of the concepts involved in the project were new to me and i have learned a great deal in completeing the app. In future i will make improvements to the app to really flesh it out and plan to make another one in the near future to consolidate what i have learned from the project.
+
+
 
 
 
