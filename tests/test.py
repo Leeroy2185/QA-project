@@ -19,6 +19,18 @@ class TestAccess(TestBase):
     def test_access_home(self):
         response = self.client.get(url_for('home'))
         self.assertEqual(response.status_code, 200)
+
+    def test_delete_get(self):
+        response = self.client.get(url_for('delete'))
+        self.assertEqual(response.status_code,200)     
+
+
+
+
+     
+
+
+   
         
     
 
